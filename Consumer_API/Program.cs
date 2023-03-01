@@ -4,7 +4,7 @@ using System.Text.Json;
 
 var urlGet = "https://localhost:7002/ListarCarros";
 var urlPost = "https://localhost:7002/AdicionaCarro";
-JsonSerializerOptions options = new JsonSerializerOptions() { PropertyNameCaseInsensitive = true };//Tanto maiusculas ou minusculas
+JsonSerializerOptions options = new JsonSerializerOptions() { PropertyNameCaseInsensitive = true };//Tanto maiúsculas ou minúsculas
 
 using (var httpClient = new HttpClient())
 {
@@ -25,7 +25,7 @@ using (var httpClient = new HttpClient())
 
     //// Post
     //Console.WriteLine("Inserindo dados Projeto_API");
-    //var respostaPost = await httpClient.PostAsJsonAsync(urlPost, new Carros { Nome = "New Prisma", Marca = " Chevrolet", Placa = "PRIS¨9999" });
+    //var respostaPost = await httpClient.PostAsJsonAsync(urlPost, new Carros { Nome = "Prisma", Marca = " Chevrolet", Placa = "PRIS-9999" });
 
     //if (respostaPost.IsSuccessStatusCode)
     //    Console.WriteLine("Carro Adicionado");

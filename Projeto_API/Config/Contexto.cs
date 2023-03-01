@@ -11,7 +11,7 @@ namespace MinimalAPICarro.Config
              Database.EnsureCreated(); 
         }
 
-        public DbSet<Carros> Carro { get; set; }
+        public DbSet<Carros> Carro { get; set; } = default!;
 
 
     }
