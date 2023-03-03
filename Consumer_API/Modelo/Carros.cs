@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cosumindo_API.Modelo
+namespace Consumer_API.Modelo
 {
     public class Carros
     {

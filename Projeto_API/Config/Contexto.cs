@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MinimalAPICarro.Modelo;
+using Projeto_API.Modelo;
 
-namespace MinimalAPICarro.Config
+namespace Projeto_API.Config
 {
     public class Contexto : DbContext
     {

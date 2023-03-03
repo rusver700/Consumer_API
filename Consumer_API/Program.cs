@@ -1,4 +1,4 @@
-﻿using Cosumindo_API.Modelo;
+﻿using Consumer_API.Modelo;
 using System.Net.Http.Json;
 using System.Text.Json;
 

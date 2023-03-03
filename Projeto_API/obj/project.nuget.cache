@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o4uTUIjZ4kfRUE6Z2mcZ3gwPL03VM2nrss46GdjOFlR1Plx6Mig8cFHnmmT8QvPK7nspSEa9QFzUFZgpodqTCA==",
+  "dgSpecHash": "uOLTYVHpNj67iNcen4NPQM4QkZhvJtNn6jzj2dSGeWXijVZTKbfoNAr3pQpvx47uoFYLbBrjGRqh8K4sQ3B/bg==",
   "success": true,
-  "projectFilePath": "C:\\3-Projeto-R.A.S\\Consumer_API\\Projeto_API\\Projeto_API.csproj",
+  "projectFilePath": "C:\\3-Projeto_GitHub\\3.Consumer_API\\Consumer_API\\Projeto_API\\Projeto_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rusve\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\rusve\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

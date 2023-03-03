@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\3-Projeto-R.A.S\\Consumer_API\\Consumer_API\\Consumer_API.csproj": {}
+    "C:\\3-Projeto_GitHub\\3.Consumer_API\\Consumer_API\\Consumer_API\\Consumer_API.csproj": {}
   },
   "projects": {
-    "C:\\3-Projeto-R.A.S\\Consumer_API\\Consumer_API\\Consumer_API.csproj": {
+    "C:\\3-Projeto_GitHub\\3.Consumer_API\\Consumer_API\\Consumer_API\\Consumer_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\3-Projeto-R.A.S\\Consumer_API\\Consumer_API\\Consumer_API.csproj",
+        "projectUniqueName": "C:\\3-Projeto_GitHub\\3.Consumer_API\\Consumer_API\\Consumer_API\\Consumer_API.csproj",
         "projectName": "Consumer_API",
-        "projectPath": "C:\\3-Projeto-R.A.S\\Consumer_API\\Consumer_API\\Consumer_API.csproj",
+        "projectPath": "C:\\3-Projeto_GitHub\\3.Consumer_API\\Consumer_API\\Consumer_API\\Consumer_API.csproj",
         "packagesPath": "C:\\Users\\rusve\\.nuget\\packages\\",
-        "outputPath": "C:\\3-Projeto-R.A.S\\Consumer_API\\Consumer_API\\obj\\",
+        "outputPath": "C:\\3-Projeto_GitHub\\3.Consumer_API\\Consumer_API\\Consumer_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

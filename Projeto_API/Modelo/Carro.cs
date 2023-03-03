@@ -1,4 +1,4 @@
-﻿namespace MinimalAPICarro.Modelo
+﻿namespace Projeto_API.Modelo
 {
     public class Carros
     {

@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using MinimalAPICarro.Config;
-using MinimalAPICarro.Modelo;
+using Projeto_API.Config;
+using Projeto_API.Modelo;
 
 var builder = WebApplication.CreateBuilder(args);
 
